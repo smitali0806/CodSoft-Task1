@@ -1,0 +1,133 @@
+h1
+{
+    color:blue;
+    text-align: center;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: slateblue;
+  }
+  
+  li {
+    float:right;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+.myimage
+{
+    height: 250px;
+    
+    margin-top: 100px;
+    margin-left: 650px;
+    border-radius: 50px;
+    border-top-left-radius: 50px;
+}  
+h3
+{
+    text-align: center;
+    color: blueviolet;
+}
+.abc
+{
+   background-color:slateblue;
+   height: 40px;
+   text-align:center;
+   text-decoration:wavy;
+}
+button
+{
+    width: 150px;
+    height: 40px;
+    background-color:lightblue;
+    border-radius: 7px;
+    
+}
+.col-md-5
+{
+    background-color:lightpink;
+  
+    
+}
+h2
+{
+    text-align: center;
+    color:white;
+
+}
+.img1
+{
+   margin-right: 500px;
+}
+.projectimage1
+{
+    height: 200px;
+    width: 375px;
+    margin-left: 100px;
+
+}
+
+.projectimage2
+{
+    height: 200px;
+    width: 375px;
+    margin-left: 100px;
+
+}
+
+.projectimage3
+{
+    height: 200px;
+    width: 375px;
+    margin-left: 100px;
+
+}
+.col-md-6
+{
+    margin-left: 350px;
+    background-color:lightpink;
+}
+.cer
+{
+    height: 200px;
+    width: 375px;
+}
+.resume
+{
+    height: 700px;
+    width: 700px;
+    margin-left: 400px;
+}
+.my
+{
+    margin-left: 600px;
+}
+.footer
+{
+    background-color:gray;
+    height: 100px;
+    width: 1500px;
+}
+p
+{
+    text-align: center;
+
+}
+h4
+{
+text-align: center;
+color:blue;
+}
+
+  
+  
+  
+  
